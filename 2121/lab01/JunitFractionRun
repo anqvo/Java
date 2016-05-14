@@ -1,0 +1,12 @@
+@Test divideFraction(): 20/20 = 20/20
+@Test divideFraction(): 16/15 = 14/ 15
+@Test addFraction(): 7/6 = 7/6
+@Test addFraction(): 12/9 = 11/9
+@Test multiplyFraction(): 9/16 = 9/16
+@Test multiplyFraction(): 12/20 = 11/20
+@Test subtractFraction(): 0/9 = 0/9
+@Test subtractFraction(): 1/6 = 0/6
+divideTest(FractionTest): expected:<1[6]/15> but was:<1[4]/15>
+addTest(FractionTest): expected:<1[2]/9> but was:<1[1]/9>
+multiplyTest(FractionTest): expected:<1[2]/20 but was:<1[1]/20>
+subtractTest(FractionTest): expected:<[1]/6> but was:<[0]/6>
